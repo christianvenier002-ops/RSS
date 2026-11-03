@@ -1,0 +1,10 @@
+{
+  "digest_time": "16:59",
+  "whatsapp": { "max_items": 15, "wait_time": 20 },
+  "keywords": ["unreal", "python", "realtà virtuale", "VR", "intelligenza artificiale"],
+  "feeds": [
+    { "name": "ANSA Tecnologia", "url": "https://www.ansa.it/sito/notizie/tecnologia/tecnologia_rss.xml", "interval": 900 },
+    { "name": "Hacker News", "url": "https://news.ycombinator.com/rss", "interval": 600 },
+    { "name": "Unreal Engine Blog", "url": "https://www.unrealengine.com/en-US/rss", "interval": 1800 }
+  ]
+}
